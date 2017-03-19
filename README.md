@@ -1,4 +1,4 @@
- # edxDataVizProject
+#edxDataVizProject
 Edx DataViz Project site
 
 Link to live site https://bigmarmot.github.io/edxDataVizProject/
