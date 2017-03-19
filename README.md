@@ -8,7 +8,7 @@ My simple leaflet map:
 
 My highchart scatter:
 <iframe src="https://bigmarmot.github.io/highcharts-scatter-csv"></iframe>
-<iframe width=”90%” height=350 src=”https://bigmarmot.github.io/highcharts-scatter-csv”></iframe>
+<iframe width="90%" height=350 src="https://bigmarmot.github.io/highcharts-scatter-csv"></iframe>
 
 
 <iframe src="https://www.w3schools.com"></iframe>
